@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm that guy who gets excited about turning raw data into meaningful insights! Currently studying Computer Hardware Engineering at Covenant University, but honestly? Most of my recent passion has been diving deep into **Machine Learning** and wondering why my model thinks a car is going 500 mph. 😅
+I'm that guy who gets excited about turning raw data into meaningful insights! Currently studying Computer Engineering at Covenant University, but honestly? Most of my recent passion has been diving deep into **Machine Learning** and wondering why my model thinks a car is going 500 mph. 😅
 
 ### 🧠 What Gets Me Out of Bed Every Morning
 
