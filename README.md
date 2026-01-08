@@ -1,80 +1,58 @@
-# Hey there! I'm Olatunji Oluwatobiloba Franklin! 👋
+<!-- Merged README combining personal profile and featured project -->
+# Olatunji Oluwatobiloba Franklin — Software & ML Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Computer+Hardware+Enthusiast;That+guy+who+gets+excited+about+data;Covenant+University+Student;Building+AI+solutions+for+fintech;Creating+the+future+one+algorithm+at+a+time!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Software+and+ML+Engineer;Computer+Hardware+Enthusiast;Fintech+AI+Builder;Creative+Technologist" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olatunjioluwatobiloba/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://olatunjitobiloba.vercel.app)
+[![Blog](https://img.shields.io/badge/Blog-Read-orange?style=for-the-badge&logo=medium)](https://medium.com/@olatunjitobiloba05)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:olatunjitobiloba05@gmail.com)
 
-I'm that guy who gets excited about turning raw data into meaningful insights! Currently studying Computer Engineering at Covenant University, but honestly? Most of my recent passion has been diving deep into **Machine Learning** and wondering why my model thinks a car is going 500 mph. 😅
+## About Me
 
-### 🧠 What Gets Me Out of Bed Every Morning
+I build production-ready AI systems that solve real-world problems. I'm a Computer Engineering student at Covenant University with a hardware background and a strong focus on ML engineering, MLOps, and fintech solutions.
 
-I'm obsessed with the intersection of **finance and artificial intelligence**. There's something magical about teaching machines to understand market patterns, predict financial trends, and spot opportunities that humans miss. It's like giving a computer the ability to see patterns that are invisible to the naked eye.
+- Education: Computer Hardware Engineering, Covenant University
+- Passion: Machine Learning & AI Engineering
+- Focus: Scalable AI for fintech
+- Creative: Graphic design, video editing, animation
 
-My journey started with hardware engineering, but I fell in love with the software side when I realized I could make sensors not just collect data, but actually **think** about what that data means.
+## Featured Project — AI Loan Prediction System
 
-- 🎓 **Education**: Computer Hardware Engineering @ Covenant University
-- 🤖 **Passion**: Machine Learning & AI Engineering
-- 💰 **Focus**: Building scalable AI solutions for fintech
-- 🎨 **Creative Side**: Graphic Design, Video Editing, Animation
-- 🏋️ **Philosophy**: Peak performance in mind, body, and code
-- 🎯 **Goal**: Creating AI solutions that generate passive income globally
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge)](https://loan-predictor-api-91xu.onrender.com/app)
+[![API Docs](https://img.shields.io/badge/API%20Docs-blue?style=for-the-badge)](https://loan-predictor-api-91xu.onrender.com/docs)
+[![Blog Post](https://img.shields.io/badge/Read%20Blog-orange?style=for-the-badge)](https://medium.com/@olatunjitobiloba05/building-a-production-ready-ai-loan-prediction-system-a-15-day-journey-3a43cb87170f)
 
-## 🛠️ My Tech Arsenal
+Production-ready ML system with 88.62% accuracy.
 
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+Key highlights:
 
-### 🔧 Hardware & Engineering
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-FF6B6B?style=for-the-badge&logo=internetofthings&logoColor=white)
+- 4 ML models (Random Forest, Logistic Regression, Gradient Boosting, SVM) with benchmarking
+- 83% test coverage using `pytest`
+- REST API with input validation and Swagger/OpenAPI docs
+- Response caching & rate limiting (3–4x faster)
+- Real-time predictions with confidence scores
 
-### 🎨 Creative Suite (Because why not be a Renaissance engineer?)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+Tech Stack: Python • Flask • PostgreSQL • scikit-learn • pytest • Swagger • Render
 
-## 📊 GitHub Stats (The Numbers Don't Lie!)
+## Tech Stack Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olatunjitobiloba&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+AI & Data: Python, scikit-learn, TensorFlow, Pandas, NumPy, Jupyter
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olatunjitobiloba&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+Backend & APIs: Flask, FastAPI, PostgreSQL, SQLite
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olatunjitobiloba&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+DevOps & Testing: Docker, GitHub Actions, pytest
 
-## 🎯 Featured Projects (My Digital Playground)
+Creative: Photoshop, Premiere Pro, After Effects
 
-### 🤖 [Data Science Portfolio](https://github.com/olatunjitobiloba/Data-Science-Portfolio)
-My journey into the world of data science and machine learning. This is where I experiment, break things, fix them, and occasionally create something that actually works!
+## Projects
 
-**What's Inside**:
-- Machine learning algorithms from scratch
-- Real-world data analysis projects
-- Financial prediction models
-- Data visualization that actually tells a story
+- Data Science Portfolio — machine learning experiments and financial prediction models ([repo](https://github.com/olatunjitobiloba/Data-Science-Portfolio))
+- Speed Detector System — IoT speed detection using IR sensors and microcontrollers ([repo](https://github.com/olatunjitobiloba/Speed-Detector))
 
-**Tech Stack**: Python, Jupyter Notebook, Pandas, NumPy, Scikit-learn, TensorFlow
-
-### 🚗 [Speed Detector System](https://github.com/olatunjitobiloba/Speed-Detector)
-Remember when I said I started with hardware? This IoT-based speed detection system is proof! Using IR LEDs, transistors, and sensor pairs to calculate vehicle speed in real-time.
-
-**The Cool Part**: The microcontroller doesn't just collect data—it processes IR sensor information and calculates speed using the fundamental distance/time relationship. It's like teaching physics to a computer!
-
-**Tech Stack**: Embedded C, Microcontroller Programming, IoT Sensors, Real-time Processing
-
-## 🌟 What I'm Building Right Now
+## Current Work
 
 ```python
 current_projects = {
@@ -86,84 +64,38 @@ current_projects = {
 }
 
 for project, description in current_projects.items():
-    print(f"🚀 {project}: {description}")
+    print(f"{project}: {description}")
 ```
 
-## 💡 My Engineering Philosophy
+## Philosophy & Approach
 
-```python
-class OlatunjiPhilosophy:
-    def __init__(self):
-        self.name = "Olatunji Oluwatobiloba Franklin"
-        self.university = "Covenant University"
-        self.mindset = "Hardware foundation + Software innovation = Magic"
-        self.mission = "Building AI that creates wealth while I sleep"
-        self.values = ["Innovation", "Excellence", "Impact", "Integrity"]
-    
-    def daily_mantra(self):
-        return """
-        Today I will:
-        1. Write code that solves real problems
-        2. Learn something that expands my perspective  
-        3. Create value that outlasts my effort
-        4. Push my limits in mind, body, and spirit
-        """
-    
-    def vision_2030(self):
-        return "Leading the next generation of AI-powered fintech solutions"
+I believe in building scalable solutions, writing clean tested code, and using MLOps best practices to bring ML systems into production.
 
-me = OlatunjiPhilosophy()
-print(me.daily_mantra())
-```
+"Calling is greater than comfort. Impact over titles. Execution over excuses."
 
-## 🎓 My Journey So Far
+## Achievements & Highlights
 
-- 🏛️ **Covenant University**: Where I'm mastering the fundamentals
-- 🔄 **Evolution**: From hardware circuits to neural networks
-- 🚀 **Current Focus**: Machine Learning Engineering
-- 💼 **Future Role**: Leading technical teams in AI/ML
-- 🌍 **Ultimate Goal**: Building globally scalable fintech solutions
+- 2nd Place — IoT Competition
+- Published technical writer on Medium
+- High academic performance (CGPA noted in personal profile)
 
-## 🔥 Fun Facts About Me
+## Contact & Links
 
-- 🤔 I debug code the same way I analyze football plays (I'm a center-back at heart)
-- 🎨 I can make your data look as good as it performs
-- 💪 I believe peak physical fitness = peak mental performance
-- 🎬 I edit videos that tell stories data scientists would understand
-- 🧠 I think in Python but dream in algorithms
-
-## 🤝 Let's Build Something Amazing Together!
-
-I'm always excited to collaborate on projects that push boundaries:
-
-- 🤖 **AI/ML Engineering** - Let's make machines smarter
-- 💰 **Fintech Innovation** - Building the future of finance
-- 🎨 **Creative Technology** - Where art meets algorithms
-- 🔬 **Research Projects** - Solving problems that matter
-- 🚀 **Startup Ideas** - Turning concepts into companies
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/olatunji-pluwatch">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:olatunji.franklin@covenantuniversity.edu.ng">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/olatunjitobiloba">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+- Portfolio: https://olatunjitobiloba.vercel.app
+- GitHub: https://github.com/olatunjitobiloba
+- LinkedIn: https://www.linkedin.com/in/olatunjitobiloba/
+- Email: olatunjitobiloba05@gmail.com
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olatunjitobiloba&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=olatunjitobiloba&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <i>"The best way to predict the future is to build it—one algorithm at a time."</i> 🚀
-</div>
+---
 
-<div align="center">
-  <sub>💡 <strong>Currently open to Machine Learning internships and collaborative projects!</strong></sub>
-</div>
+
