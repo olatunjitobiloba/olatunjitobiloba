@@ -1,90 +1,183 @@
-<!-- Merged README combining personal profile and featured project -->
-# Olatunji Oluwatobiloba Franklin — Software & ML Engineer
+<!-- GitHub Profile README — Production Engineering Portfolio -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Software+and+ML+Engineer;Computer+Hardware+Enthusiast;Fintech+AI+Builder;Creative+Technologist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=ML+%26+Backend+Engineer;Building+Production-Grade+AI+Systems;Fintech+Infrastructure+%7C+Behavioral+Analytics;Computer+Engineering+%40+Covenant+University" alt="Typing SVG" />
 </div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olatunjioluwatobiloba/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://olatunjitobiloba.vercel.app)
 [![Blog](https://img.shields.io/badge/Blog-Read-orange?style=for-the-badge&logo=medium)](https://medium.com/@olatunjitobiloba05)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:olatunjitobiloba05@gmail.com)
 
-## About Me
+</div>
 
-I build production-ready AI systems that solve real-world problems. I'm a Computer Engineering student at Covenant University with a hardware background and a strong focus on ML engineering, MLOps, and fintech solutions.
+---
 
-- Education: Computer Hardware Engineering, Covenant University
-- Passion: Machine Learning & AI Engineering
-- Focus: Scalable AI for fintech
-- Creative: Graphic design, video editing, animation
+# Olatunji Oluwatobiloba Franklin — ML & Backend Engineer
 
-## Featured Project — AI Loan Prediction System
+Building production-grade AI systems and fintech infrastructure.
+Computer Engineering student @ Covenant University.
+
+> ML engineering · Backend systems · Fintech infrastructure · Privacy-preserving AI
+
+---
+
+## Flagship Systems
+
+### 🏦 AI Loan Prediction System
+Production ML system predicting loan approval risk with 88.62% accuracy.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge)](https://loan-predictor-api-91xu.onrender.com/app)
 [![API Docs](https://img.shields.io/badge/API%20Docs-blue?style=for-the-badge)](https://loan-predictor-api-91xu.onrender.com/docs)
 [![Blog Post](https://img.shields.io/badge/Read%20Blog-orange?style=for-the-badge)](https://medium.com/@olatunjitobiloba05/building-a-production-ready-ai-loan-prediction-system-a-15-day-journey-3a43cb87170f)
 
-Production-ready ML system with 88.62% accuracy.
-
-Key highlights:
-
-- 4 ML models (Random Forest, Logistic Regression, Gradient Boosting, SVM) with benchmarking
-- 83% test coverage using `pytest`
-- REST API with input validation and Swagger/OpenAPI docs
-- Response caching & rate limiting (3–4x faster)
-- Real-time predictions with confidence scores
-
-Tech Stack: Python • Flask • PostgreSQL • scikit-learn • pytest • Swagger • Render
-
-## Tech Stack Overview
-
-AI & Data: Python, scikit-learn, TensorFlow, Pandas, NumPy, Jupyter
-
-Backend & APIs: Flask, FastAPI, PostgreSQL, SQLite
-
-DevOps & Testing: Docker, GitHub Actions, pytest
-
-Creative: Photoshop, Premiere Pro, After Effects
-
-## Projects
-
-- Data Science Portfolio — machine learning experiments and financial prediction models ([repo](https://github.com/olatunjitobiloba/Data-Science-Portfolio))
-- Speed Detector System — IoT speed detection using IR sensors and microcontrollers ([repo](https://github.com/olatunjitobiloba/Speed-Detector))
-
-## Current Work
-
-```python
-current_projects = {
-    "fintech_ai": "Scalable ML solutions for financial services",
-    "passive_income_ai": "AI systems that work while I sleep",
-    "academic_excellence": "Maintaining top performance at Covenant University",
-    "creative_content": "Stunning visuals with Adobe Creative Suite",
-    "fitness_optimization": "Peak physical and mental performance"
-}
-
-for project, description in current_projects.items():
-    print(f"{project}: {description}")
+**System Architecture**
+```
+Client Request
+     ↓
+REST API (Flask)
+     ↓
+Input Validation & Feature Pipeline
+     ↓
+ML Model Inference (4 models benchmarked)
+     ↓
+Response Caching Layer (3–4x faster)
+     ↓
+PostgreSQL Logging
+     ↓
+JSON Response + Confidence Score
 ```
 
-## Philosophy & Approach
+**Key Engineering Signals**
+- 4 ML models benchmarked (Random Forest, Gradient Boosting, Logistic Regression, SVM)
+- 83% test coverage with `pytest`
+- REST API with input validation + Swagger/OpenAPI docs
+- Rate limiting + response caching
+- Deployed to production on Render
 
-I believe in building scalable solutions, writing clean tested code, and using MLOps best practices to bring ML systems into production.
+`Python` `Flask` `scikit-learn` `PostgreSQL` `pytest` `Swagger` `Render`
 
-"Calling is greater than comfort. Impact over titles. Execution over excuses."
+---
 
-## Achievements & Highlights
+### 🤖 FocusPilot — Behavioral Analytics & Autonomous Agent System
+Chrome extension + ML pipeline that detects distraction patterns in real-time and intervenes autonomously using reinforcement learning.
 
-- 2nd Place — IoT Competition
-- Published technical writer on Medium
-- High academic performance (CGPA noted in personal profile)
+[![Live App](https://img.shields.io/badge/Live%20App-success?style=for-the-badge)](https://focuspilot.vercel.app)
+[![HF Spaces](https://img.shields.io/badge/API-HF%20Spaces-yellow?style=for-the-badge)](https://OlatunjiTobi-focuspilot-agent.hf.space/docs)
 
-## Contact & Links
+**System Architecture**
+```
+Chrome Extension (MV3)
+     ↓
+Activity Tracker (tabs, idle time, domains)
+     ↓
+FastAPI Backend (HF Spaces)
+     ↓
+Feature Engineering Pipeline (15 behavioral features)
+     ↓
+Procrastination Predictor (Random Forest)
+     ↓
+Autonomous Agent (Monitor → Decide → Execute → Learn)
+     ↓
+Supabase (PostgreSQL + Real-time)
+     ↓
+React Dashboard (Vercel)
+```
 
-- Portfolio: https://olatunjitobiloba.vercel.app
-- GitHub: https://github.com/olatunjitobiloba
-- LinkedIn: https://www.linkedin.com/in/olatunjitobiloba/
-- Email: olatunjitobiloba05@gmail.com
+**Key Engineering Signals**
+- 15-feature behavioral ML pipeline (temporal, behavioral, historical, contextual)
+- Multi-agent architecture (Monitoring, Decision, Execution, Learning agents)
+- Real-time Supabase subscriptions for agent state
+- ML distraction scorer with 4-factor weighted algorithm
+- Chrome Extension Manifest V3 with declarativeNetRequest blocking
+
+`FastAPI` `React` `TypeScript` `Supabase` `scikit-learn` `Chrome Extension API` `Vercel` `HF Spaces`
+
+---
+
+### 🔐 FedRec — Privacy-Preserving Federated Recommendation Engine
+Federated learning system that personalizes recommendations across devices without centralizing raw user data. Achieves 34% engagement boost with zero privacy violations.
+
+**System Architecture**
+```
+Device 1 ... Device N (local training, no raw data shared)
+     ↓              ↓
+Local Model Updates (encrypted weights only)
+     ↓
+FedAvg Aggregation Server
+     ↓
+Global Model Update
+     ↓
+Streamlit Dashboard
+(Privacy Meter · Performance Tracker · Business Impact Calculator)
+```
+
+**Key Engineering Signals**
+- FedAvg algorithm — no raw data leaves devices
+- Scalable to 1M+ simulated devices
+- 9.5/10 privacy score · 34% accuracy boost · $15M+ revenue protection modeled
+- Multi-domain datasets: MovieLens, Amazon Reviews, Spotify-like music data
+
+`Python` `PyTorch` `TensorFlow` `Streamlit` `scikit-learn` `Federated Learning`
+
+---
+
+## Core Engineering Skills
+
+```
+Machine Learning          Python · scikit-learn · TensorFlow · feature engineering · model serving
+Backend Systems           FastAPI · Flask · REST APIs · PostgreSQL · SQLite · Supabase
+Data Engineering          Pandas · NumPy · data pipelines · behavioral analytics
+DevOps & Testing          Docker · GitHub Actions · pytest · CI/CD · Render · Vercel
+Frontend                  React · TypeScript · Tailwind CSS · Recharts
+Browser Engineering       Chrome Extension API · Manifest V3 · declarativeNetRequest
+Creative                  Photoshop · Premiere Pro · After Effects
+```
+
+---
+
+## System Design Interests
+
+- Payment systems & fraud detection pipelines
+- ML inference infrastructure at scale
+- Behavioral analytics platforms
+- Privacy-preserving AI (federated learning, differential privacy)
+- Real-time event-driven architectures
+
+---
+
+## Current Focus
+
+```python
+current_focus = {
+    "focuspilot":    "Behavioral analytics system with autonomous ML agent",
+    "ml_inference":  "Serving models through production APIs at scale",
+    "system_design": "Building scalable fintech backend architectures",
+}
+
+for system, description in current_focus.items():
+    print(f"[{system}] → {description}")
+```
+
+---
+
+## Achievements
+
+- 🥈 2nd Place — IoT Engineering Competition
+- ✍️ Published technical writer on Medium
+- 🚀 Multiple ML systems in production (deployed, tested, documented)
+- 🎓 High academic performance @ Covenant University
+
+---
+
+## Philosophy
+
+> *"Calling is greater than comfort. Impact over titles. Execution over excuses."*
+
+I build systems that work in production — not just notebooks.
+Clean code. Tested. Documented. Deployed.
 
 ---
 
@@ -95,7 +188,3 @@ I believe in building scalable solutions, writing clean tested code, and using M
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=olatunjitobiloba&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-
----
-
-
