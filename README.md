@@ -1,58 +1,61 @@
-<!-- GitHub Profile README — Production Engineering Portfolio -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=ML+%26+Backend+Engineer;Building+Production-Grade+AI+Systems;Fintech+Infrastructure+%7C+Behavioral+Analytics;Computer+Engineering+%40+Covenant+University" alt="Typing SVG" />
-</div>
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olatunjioluwatobiloba/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://olatunjitobiloba.vercel.app)
-[![Blog](https://img.shields.io/badge/Blog-Read-orange?style=for-the-badge&logo=medium)](https://medium.com/@olatunjitobiloba05)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:olatunjitobiloba05@gmail.com)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=ML+%26+Backend+Engineer;Building+Production+AI+Systems;Fintech+Infrastructure+%7C+Privacy-Preserving+AI)
 
 </div>
 
 ---
 
-# Olatunji Oluwatobiloba Franklin — ML & Backend Engineer
+# Olatunji Oluwatobiloba Franklin
 
-Building production-grade AI systems and fintech infrastructure.
+**ML & Backend Engineer — Building production AI systems and fintech infrastructure.**  
 Computer Engineering student @ Covenant University.
 
-> ML engineering · Backend systems · Fintech infrastructure · Privacy-preserving AI
+I build machine learning systems that run in production — not just notebooks.  
+Clean code. Tested. Documented. Deployed.
+
+**Focus areas:** ML inference infrastructure · Fintech backend systems · Behavioral analytics · Privacy-preserving AI
+
+---
+
+## Live Systems
+
+| System | Description | Status |
+|--------|-------------|--------|
+| [Loan Prediction API](https://loan-predictor-api-91xu.onrender.com/app) | Production ML inference — 88.6% accuracy | Live |
+| [FocusPilot](https://huggingface.co/spaces) | Behavioral analytics + autonomous ML agent | Live |
+| [FedRec](https://lnkd.in/d54eeeDc) | Federated recommendation engine — 9.5/10 privacy score | Live |
 
 ---
 
 ## Flagship Systems
 
-### 🏦 AI Loan Prediction System
-Production ML system predicting loan approval risk with 88.62% accuracy.
+### AI Loan Prediction System
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge)](https://loan-predictor-api-91xu.onrender.com/app)
-[![API Docs](https://img.shields.io/badge/API%20Docs-blue?style=for-the-badge)](https://loan-predictor-api-91xu.onrender.com/docs)
-[![Blog Post](https://img.shields.io/badge/Read%20Blog-orange?style=for-the-badge)](https://medium.com/@olatunjitobiloba05/building-a-production-ready-ai-loan-prediction-system-a-15-day-journey-3a43cb87170f)
+Production ML system predicting loan approval risk with 88.62% accuracy.  
+4 models benchmarked. REST API with caching, validation, logging, and full test coverage.
 
 **System Architecture**
+
 ```
 Client Request
-     ↓
+     |
 REST API (Flask)
-     ↓
+     |
 Input Validation & Feature Pipeline
-     ↓
+     |
 ML Model Inference (4 models benchmarked)
-     ↓
-Response Caching Layer (3–4x faster)
-     ↓
-PostgreSQL Logging
-     ↓
+     |
+Response Caching Layer (3-4x faster)
+     |
+PostgreSQL Prediction Logging
+     |
 JSON Response + Confidence Score
 ```
 
-**Key Engineering Signals**
-- 4 ML models benchmarked (Random Forest, Gradient Boosting, Logistic Regression, SVM)
-- 83% test coverage with `pytest`
+**Engineering Signals**
+- 4 ML models benchmarked: Random Forest, Gradient Boosting, Logistic Regression, SVM
+- 83% test coverage with pytest
 - REST API with input validation + Swagger/OpenAPI docs
 - Rate limiting + response caching
 - Deployed to production on Render
@@ -61,35 +64,35 @@ JSON Response + Confidence Score
 
 ---
 
-### 🤖 FocusPilot — Behavioral Analytics & Autonomous Agent System
-Chrome extension + ML pipeline that detects distraction patterns in real-time and intervenes autonomously using reinforcement learning.
+### FocusPilot — Behavioral Analytics & Autonomous Agent System
 
-[![Live App](https://img.shields.io/badge/Live%20App-success?style=for-the-badge)](https://focuspilot.vercel.app)
-[![HF Spaces](https://img.shields.io/badge/API-HF%20Spaces-yellow?style=for-the-badge)](https://OlatunjiTobi-focuspilot-agent.hf.space/docs)
+Chrome extension + ML pipeline that detects distraction patterns in real-time and intervenes  
+autonomously using reinforcement learning.
 
 **System Architecture**
+
 ```
 Chrome Extension (MV3)
-     ↓
+     |
 Activity Tracker (tabs, idle time, domains)
-     ↓
+     |
 FastAPI Backend (HF Spaces)
-     ↓
+     |
 Feature Engineering Pipeline (15 behavioral features)
-     ↓
+     |
 Procrastination Predictor (Random Forest)
-     ↓
-Autonomous Agent (Monitor → Decide → Execute → Learn)
-     ↓
+     |
+Autonomous Agent (Monitor -> Decide -> Execute -> Learn)
+     |
 Supabase (PostgreSQL + Real-time)
-     ↓
+     |
 React Dashboard (Vercel)
 ```
 
-**Key Engineering Signals**
+**Engineering Signals**
 - 15-feature behavioral ML pipeline (temporal, behavioral, historical, contextual)
-- Multi-agent architecture (Monitoring, Decision, Execution, Learning agents)
-- Real-time Supabase subscriptions for agent state
+- Multi-agent architecture: Monitoring, Decision, Execution, Learning agents
+- Real-time Supabase subscriptions for agent state management
 - ML distraction scorer with 4-factor weighted algorithm
 - Chrome Extension Manifest V3 with declarativeNetRequest blocking
 
@@ -97,24 +100,27 @@ React Dashboard (Vercel)
 
 ---
 
-### 🔐 FedRec — Privacy-Preserving Federated Recommendation Engine
-Federated learning system that personalizes recommendations across devices without centralizing raw user data. Achieves 34% engagement boost with zero privacy violations.
+### FedRec — Privacy-Preserving Federated Recommendation Engine
+
+Federated learning system that personalizes recommendations across devices  
+without centralizing raw user data. 34% engagement boost. Zero privacy violations.
 
 **System Architecture**
+
 ```
-Device 1 ... Device N (local training, no raw data shared)
-     ↓              ↓
+Device 1 ... Device N  (local training — no raw data shared)
+     |              |
 Local Model Updates (encrypted weights only)
-     ↓
+     |
 FedAvg Aggregation Server
-     ↓
+     |
 Global Model Update
-     ↓
+     |
 Streamlit Dashboard
 (Privacy Meter · Performance Tracker · Business Impact Calculator)
 ```
 
-**Key Engineering Signals**
+**Engineering Signals**
 - FedAvg algorithm — no raw data leaves devices
 - Scalable to 1M+ simulated devices
 - 9.5/10 privacy score · 34% accuracy boost · $15M+ revenue protection modeled
@@ -124,23 +130,54 @@ Streamlit Dashboard
 
 ---
 
+## How I Build Production Systems
+
+Most ML projects stop at notebooks. I focus on shipping systems that run in production.
+
+Typical architecture I build:
+
+```
+Client
+  |
+REST API (input validation + rate limiting)
+  |
+Feature Engineering Pipeline
+  |
+Model Inference (benchmarked, versioned)
+  |
+Caching Layer
+  |
+Database Logging (predictions + metadata)
+  |
+JSON Response + Confidence Score
+```
+
+Engineering principles I follow:
+- Separate training pipelines from inference services
+- Validate inputs before model inference
+- Benchmark multiple models before selecting one
+- Log predictions for retraining pipelines
+- Cache responses to reduce compute cost
+- Document APIs with OpenAPI / Swagger
+
+---
+
 ## Core Engineering Skills
 
 ```
-Machine Learning          Python · scikit-learn · TensorFlow · feature engineering · model serving
-Backend Systems           FastAPI · Flask · REST APIs · PostgreSQL · SQLite · Supabase
-Data Engineering          Pandas · NumPy · data pipelines · behavioral analytics
-DevOps & Testing          Docker · GitHub Actions · pytest · CI/CD · Render · Vercel
-Frontend                  React · TypeScript · Tailwind CSS · Recharts
-Browser Engineering       Chrome Extension API · Manifest V3 · declarativeNetRequest
-Creative                  Photoshop · Premiere Pro · After Effects
+Machine Learning     Python · scikit-learn · TensorFlow · PyTorch · feature engineering · model serving
+Backend Systems      FastAPI · Flask · REST APIs · PostgreSQL · SQLite · Supabase
+Data Engineering     Pandas · NumPy · data pipelines · behavioral analytics
+DevOps & Testing     Docker · GitHub Actions · pytest · CI/CD · Render · Vercel
+Frontend             React · TypeScript · Tailwind CSS · Recharts
+Browser Engineering  Chrome Extension API · Manifest V3 · declarativeNetRequest
 ```
 
 ---
 
 ## System Design Interests
 
-- Payment systems & fraud detection pipelines
+- Payment systems and fraud detection pipelines
 - ML inference infrastructure at scale
 - Behavioral analytics platforms
 - Privacy-preserving AI (federated learning, differential privacy)
@@ -148,7 +185,7 @@ Creative                  Photoshop · Premiere Pro · After Effects
 
 ---
 
-## Current Focus
+## Currently Building
 
 ```python
 current_focus = {
@@ -158,33 +195,30 @@ current_focus = {
 }
 
 for system, description in current_focus.items():
-    print(f"[{system}] → {description}")
+    print(f"[{system}] -> {description}")
 ```
 
 ---
 
 ## Achievements
 
-- 🥈 2nd Place — IoT Engineering Competition
-- ✍️ Published technical writer on Medium
-- 🚀 Multiple ML systems in production (deployed, tested, documented)
-- 🎓 High academic performance @ Covenant University
+- 2nd Place — IoT Engineering Competition
+- Published technical writer on Medium
+- Multiple ML systems in production (deployed, tested, documented)
+- High academic performance @ Covenant University
 
 ---
 
 ## Philosophy
 
-> *"Calling is greater than comfort. Impact over titles. Execution over excuses."*
+"Calling is greater than comfort. Impact over titles. Execution over excuses."
 
 I build systems that work in production — not just notebooks.
-Clean code. Tested. Documented. Deployed.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olatunjitobiloba&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+## Connect
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=olatunjitobiloba&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+[LinkedIn](https://linkedin.com/in/olatunji-oluwatobiloba-186659291) · 
+[Portfolio](https://olatunjitobiloba.vercel.app) · 
+[Email](mailto:olatunjitobiloba@gmail.com)
