@@ -15,8 +15,8 @@ I build machine learning systems that run in production — not just notebooks.
 Clean code. Tested. Documented. Deployed.
 
 [LinkedIn](https://linkedin.com/in/olatunji-oluwatobiloba-186659291) &nbsp;|&nbsp;
-[Email](mailto:olatunjifranklin@email.com) &nbsp;|&nbsp;
-[Portfolio](https://github.com/olatunjitobiloba)
+[Email](mailto:olatunjitobiloba05@email.com) &nbsp;|&nbsp;
+[Portfolio](https://olatunjitobiloba.vercel.app/)
 
 ---
 
